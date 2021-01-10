@@ -39,4 +39,4 @@ Aplicação construída durante o evento DoWhile da Rocketseat, para demonstrar 
 [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
 
 Made with :heart: by <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="blank">Jonathan Rehem</a>.
-###### Developed on GoStack Bootcamp from [RocketSeat](https://rocketseat.com.br) :rocket:.
+###### Developed on Dowhile Event from [RocketSeat](https://rocketseat.com.br) :rocket:.
